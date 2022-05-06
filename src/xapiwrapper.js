@@ -1675,3 +1675,5 @@ function isDate(date) {
     ADL.XAPIWrapper = new XAPIWrapper(Config, false);
 
 }(window.ADL = window.ADL || {}));
+export default ADL
+export default toBase64
