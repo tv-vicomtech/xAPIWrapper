@@ -1,4 +1,4 @@
-const {CryptoJS} = require('../lib/cryptojs_v3.1.2.js')
+import {CryptoJS} from '../lib/cryptojs_v3.1.2.js'
 
 // adds toISOString to date objects if not there
 // from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString
